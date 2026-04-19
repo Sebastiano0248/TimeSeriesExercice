@@ -1,0 +1,13 @@
+{
+  "model": "GRU",
+  "horizon": 22,
+  "cv_mae_mean": 8.103203,
+  "cv_mae_std": 5.738675,
+  "cv_coverage_80": 0.6591,
+  "cv_coverage_95": 0.9545,
+  "test_mae": 36.79359,
+  "test_rmse": 43.858617,
+  "test_mase": 14.759247,
+  "test_coverage_80": 0.3636,
+  "test_coverage_95": 0.7273
+}

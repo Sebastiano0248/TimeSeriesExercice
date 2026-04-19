@@ -1,0 +1,13 @@
+{
+  "model": "ETS_Holt",
+  "horizon": 22,
+  "cv_mae_mean": 8.643857,
+  "cv_mae_std": 9.384249,
+  "cv_coverage_80": 0.8,
+  "cv_coverage_95": 0.95,
+  "test_mae": 35.749769,
+  "test_rmse": 42.690102,
+  "test_mase": 14.340535,
+  "test_coverage_80": 0.2727,
+  "test_coverage_95": 0.4545
+}

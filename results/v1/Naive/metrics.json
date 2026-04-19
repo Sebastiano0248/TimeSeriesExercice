@@ -1,0 +1,13 @@
+{
+  "model": "Naive",
+  "horizon": 22,
+  "cv_mae_mean": 8.662511,
+  "cv_mae_std": 9.377951,
+  "cv_coverage_80": 0.7045,
+  "cv_coverage_95": 0.8182,
+  "test_mae": 35.724053,
+  "test_rmse": 42.659216,
+  "test_mase": 14.330214,
+  "test_coverage_80": 0.2273,
+  "test_coverage_95": 0.2727
+}

@@ -1,0 +1,13 @@
+{
+  "model": "LSTM_RNN",
+  "horizon": 22,
+  "cv_mae_mean": 15.660598,
+  "cv_mae_std": 21.642148,
+  "cv_coverage_80": 0.6227,
+  "cv_coverage_95": 0.7773,
+  "test_mae": 61.685623,
+  "test_rmse": 75.118427,
+  "test_mase": 24.744349,
+  "test_coverage_80": 0.4545,
+  "test_coverage_95": 0.4545
+}
