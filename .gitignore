@@ -1,5 +1,11 @@
 venv/
 
+# Contingut de l'assignatura (no pujar al repo)
+subject_content/
+
+# Models serialitzats (fitxers grans)
+**/*.pkl
+
 # __pycache__
 __pycache__/
 *.pyc
