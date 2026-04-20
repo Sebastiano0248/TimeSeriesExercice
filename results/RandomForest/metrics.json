@@ -1,0 +1,13 @@
+{
+  "model": "RandomForest",
+  "horizon": 22,
+  "cv_mae_mean": 25.504556,
+  "cv_mae_std": 29.433734,
+  "cv_coverage_80": 0.8,
+  "cv_coverage_95": 0.95,
+  "test_mae": 28.585261,
+  "test_rmse": 31.26159,
+  "test_mase": 11.46659,
+  "test_coverage_80": 0.7273,
+  "test_coverage_95": 1.0
+}
