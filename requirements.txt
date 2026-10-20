@@ -5,7 +5,7 @@ arch==8.0.0
 asttokens==3.0.1
 attrs==26.1.0
 beautifulsoup4==4.14.3
-certifi==2026.2.25
+certifi==2026.10.19
 cffi==2.0.0
 charset-normalizer==3.4.7
 click==8.3.2
